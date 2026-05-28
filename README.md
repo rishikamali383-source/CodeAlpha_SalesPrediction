@@ -16,3 +16,6 @@ This project predicts product sales using Machine Learning techniques based on a
 ## Machine Learning Model
 
 - Linear Regression
+
+## Author 
+Rishika Mali
